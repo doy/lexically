@@ -2,7 +2,6 @@ package lexically;
 use strict;
 use warnings;
 
-use Exporter ();
 use Exporter::Lexical 0.02 ();
 use Module::Runtime 'require_module';
 
