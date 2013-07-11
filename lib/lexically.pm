@@ -61,8 +61,6 @@ Please report any bugs to GitHub Issues at L<https://github.com/doy/lexically/is
 
 L<Exporter::Lexical>
 
-=back
-
 =head1 SUPPORT
 
 You can find this documentation for this module with the perldoc command.
